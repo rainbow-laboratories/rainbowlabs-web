@@ -1,0 +1,22 @@
+#header {
+  height: 15%;
+  margin-bottom: 3rem;
+  background-color: blue;
+}
+
+body {
+  padding: 0 0.5rem;
+  margin: 0 0.5rem;
+}
+
+.body-content {
+  margin-bottom: 3rem;
+}
+
+.main-content {
+  margin-bottom: 3rem;
+}
+
+.marginfix {
+  margin-left: -10rem;
+}
